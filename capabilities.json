@@ -1,0 +1,7 @@
+{
+    "platformName": "Android",
+    "appium:platformVersion": "7.0",
+    "appium:deviceName": "64d4eb4f",
+    "appium:app": "D:/Download/gherkin_piloting_nativeAndro_update.apk",
+    "appium:automationName": "UiAutomator2"
+  }
